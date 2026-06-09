@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Viraj 👋
 
-<!--
-**zaros67tg/zaros67tg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build at the intersection of **computation, cognition, and bio-inspired AI architectures**. Most of my deep-tech and neural network research lives inside my organization.
 
-Here are some ideas to get you started:
+### 🧠 Primary Research Hub
+* **[The Synaptic Logic Initiative](https://github.com/The-Synaptic-Logic-Initiative)**: An independent computational neuroscience portfolio modeling exact biological mechanisms (working memory limits, attentional selection, and synaptic depression).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+* **[VibeLLM](https://github.com/zaros67tg/vibellm)** - My custom Large Language Model implementation.
+* **[MediQueue](https://github.com/zaros67tg/mediqueue)** - Advanced tech solution optimizing healthcare workflow logistics.
+* **[Chess Engine](https://github.com/zaros67tg/chess)** - A custom chess engine built from the ground up.
+* **[The Riemann Zeta Landscape](https://github.com/zaros67tg/The-Riemann-Zeta-Landscap)** - Mathematical visualization and landscape generation.
