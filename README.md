@@ -12,3 +12,8 @@ I build at the intersection of **computation, cognition, and bio-inspired AI arc
 * **[MediQueue](https://github.com/zaros67tg/mediqueue)** - Advanced tech solution optimizing healthcare workflow logistics.
 * **[Chess Engine](https://github.com/zaros67tg/chess)** - A custom chess engine built from the ground up.
 * **[The Riemann Zeta Landscape](https://github.com/zaros67tg/The-Riemann-Zeta-Landscap)** - Mathematical visualization and landscape generation.
+
+---
+
+### 🐍 GitHub Contributions
+![github contribution grid snake animation](https://raw.githubusercontent.com/zaros67tg/zaros67tg/output/github-contribution-grid-snake.svg)
