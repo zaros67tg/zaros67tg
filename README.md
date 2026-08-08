@@ -14,4 +14,3 @@ I build at the intersection of **computation, cognition, and bio-inspired AI arc
 * **[The Riemann Zeta Landscape](https://github.com/zaros67tg/The-Riemann-Zeta-Landscap)** - Mathematical visualization and landscape generation.
 
 ---
-![github contribution grid snake animation](https://raw.githubusercontent.com/zaros67tg/zaros67tg/output/github-contribution-grid-snake-dark.svg)
